@@ -2,8 +2,8 @@
 
 /**
  *main - Entry point
- *Description: Print numbers 0 to 9
- *Result: Always 0 (Success)
+ *Description: Prints numbers from 0 to 9
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
